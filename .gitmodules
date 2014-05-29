@@ -1,9 +1,12 @@
-[submodule "portal"]
-	path = portal
-	url = git@github.com:rontech/customer-portal.git
+[submodule "framework"]
+	path = framework
+	url = git@github.com:rontech/meifan-framework.git
+[submodule "database"]
+	path = database
+	url = git@github.com:rontech/meifan-database.git
 [submodule "manager"]
 	path = manager
 	url = git@github.com:rontech/meifan-manager.git
-[submodule "salon-manager"]
-	path = salon-manager
-	url = git@github.com:rontech/salon-manager.git
+[submodule "portal"]
+	path = portal
+	url = git@github.com:rontech/meifan-portal.git
