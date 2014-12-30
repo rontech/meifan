@@ -150,10 +150,10 @@ Construct the development invironment in Linux.
          $source /etc/profile
 
      5.4 Verify if play is configured rightly.
-       type
-       $play
+        type
+        $play
 
-       you will get the return like below.
+        you will get the return like below.
                   _
             _ __ | | __ _ _  _
            | '_ \| |/ _' | || |
