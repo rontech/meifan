@@ -206,12 +206,12 @@ Construct the development invironment in Linux.
     3) With great power comes great responsibility. 
 
 10. etc.
-
+    The configuration steps for Windows is below portal/doc.
 
 --------------------------------------
 About the deploy environment
 --------------------------------------
-1. Jenkens
+1. Jenkins
 
 
 
